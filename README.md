@@ -35,4 +35,5 @@ Here are some ideas to get you started:
 * Mongoose 
 * Express 
 * Nodemon 
+* Multer
 * Jwt 
