@@ -36,3 +36,4 @@ Here are some ideas to get you started:
 * Nodemon 
 * Multer
 * Jwt 
+* Socket.io
