@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ## Cтек технологий и инструментов Frontend
 
 * JavaScript 
+* TypeScript
 * React 
 * Redux 
 * Redux-toolkit 
