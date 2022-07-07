@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 * Eslint 
 * Node.js 
 * Multer
+* Axios
 
 ## Cтек технологий и инструментов Back-end
 
