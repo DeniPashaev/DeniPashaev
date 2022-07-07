@@ -17,19 +17,19 @@ Here are some ideas to get you started:
 
 ## Cтек технологий и инструментов Frontend
 
-* JavaScript *
-* React *
-* Redux *
-* Redux-toolkit *
-* Socket.io *
-* Eslint *
-* Node.js *
+* JavaScript 
+* React 
+* Redux 
+* Redux-toolkit 
+* Socket.io 
+* Eslint 
+* Node.js 
 
 ## Cтек технологий и инструментов Back-end
 
-* Node.js *
-* MongoDB *
-* Mongoose *
-* Express *
-* Nodemon *
-* Jwt *
+* Node.js 
+* MongoDB 
+* Mongoose 
+* Express 
+* Nodemon 
+* Jwt 
