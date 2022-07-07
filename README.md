@@ -19,10 +19,11 @@ Here are some ideas to get you started:
 
 * JavaScript 
 * TypeScript
+* Html/Css
 * React 
 * Redux 
 * Redux-toolkit 
-* Socket.io 
+* Socket.io-client
 * Eslint 
 * Node.js 
 * Axios
