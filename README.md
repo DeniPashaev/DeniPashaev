@@ -1,10 +1,10 @@
-## Hi 👋
+# 👋 
+## Frontend-разработчик, пишу на стеке JavaScript - React - Redux
+## Frontend-разработчик
 
 <!--
-**DeniPashaev/DeniPashaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**lors08-08/lors08-08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Мой основной стек
-<!--
+## Cтек технологий и инструментов 
+## Мой основной стэк: 
+
 ![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 	<img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 ![](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
--->
